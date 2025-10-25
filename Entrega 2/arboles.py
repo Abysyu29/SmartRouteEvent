@@ -3,7 +3,7 @@
 # Sergio Andres Martinez Cifuentes 2242039
 # Andres Felipe Guaqueta Rojas 2242034
 # Andres Sebastian Pinzon Gutierrez 2221887
-# Daniel Eduardo Rincon Arias
+# Daniel Eduardo Rincon Arias 2202316
 
 """Sistema de gestión de lugares cercanos usando árboles.
 
